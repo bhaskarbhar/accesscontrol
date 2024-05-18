@@ -1,0 +1,1 @@
+This is a project made using python which deals with the idea of access control given to different types of resources. Dictionary is used to store the users and resources and also is used to implement the logic.
